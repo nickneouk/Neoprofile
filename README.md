@@ -5,18 +5,18 @@
 
 ## Summary
 
-With over 25 years of diverse finance experience, I bring a unique blend of expertise in finance systems projects, business analysis, and financial modeling, coupled with a strong background in both private and public sectors. My career as an ACCA-qualified accountant has involved working with innovative technologies, including Cloud/SaaS platforms like Dynamics 365 F&O/Business Central/NAV, Oracle, Unit4 Agresso, Workday, and Infor. This experience allows me to thrive in Agile project environments and deliver effective solutions.
+With over 25 years of diverse finance experience, I bring a unique blend of expertise in finance systems projects, business analysis, and financial modelling, coupled with a strong background in both private and public sectors. My career as an ACCA-qualified accountant has involved working with innovative technologies, including Cloud/SaaS platforms like Dynamics 365 F&O/Business Central/NAV, Oracle, Unit4 Agresso, Workday, and Infor. This experience allows me to thrive in Agile project environments and deliver effective solutions.
 
 I am passionate about driving efficiency, improving controls, and providing valuable insights through the strategic application of technology. My experience includes:
 
-* Supporting and analyzing Dynamics 365 Business Central implementations.
+* Supporting and analysing Dynamics 365 Business Central implementations.
 * Identifying inefficiencies and recommending system enhancements.
 * Collaborating with stakeholders to optimize system integration.
 * Rectifying failed system implementations.
 * Developing Excel-based solutions for Non-Current Asset management.
 * Leading Oracle Fusion finance system implementations.
 * Managing project timelines, budgets, and resources.
-* Analyzing business requirements for Dynamics F&O/NAV.
+* Analysing business requirements for Dynamics F&O/NAV.
 * Configuring and customizing Dynamics systems.
 * Providing user training and support.
 
@@ -64,7 +64,7 @@ I am passionate about driving efficiency, improving controls, and providing valu
 * **Finance Systems Consultant:** Provided support and analysis for Dynamics Business Central implementations, identified inefficiencies, and recommended system enhancements.
 * **Interim Systems Accountant:** Supported the rectification of a failed system implementation at the Electoral Commission, and developed Excel-based solutions for Non-Current Asset management.
 * **Finance Lead/Project Manager:** Led Oracle Fusion finance system implementations, managing project timelines, budgets, and resources.
-* **Finance and Business Systems Analyst:** Analyzed business requirements for Dynamics F&O/NAV, configured and customized Dynamics systems, and provided user training.
+* **Finance and Business Systems Analyst:** Analysed business requirements for Dynamics F&O/NAV, configured and customized Dynamics systems, and provided user training.
 
 ## References
 
